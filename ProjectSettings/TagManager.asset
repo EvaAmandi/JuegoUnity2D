@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Suelo
+  - PJ
+  - MoveSpike
+  - Terreno
+  - CheckPoint
+  - Final
+  - Trampa
+  - MovePlataform
+  - Slime
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Fondo
+    uniqueID: 596053301
+    locked: 0
+  - name: Square
+    uniqueID: 3929470061
+    locked: 0
+  - name: Nubes
+    uniqueID: 1205139367
+    locked: 0
+  - name: "Monta\xF1as"
+    uniqueID: 2341301613
+    locked: 0
+  - name: "\xC1rboles"
+    uniqueID: 378130517
+    locked: 0
+  - name: Tilemap
+    uniqueID: 3379032935
+    locked: 0
+  - name: Seta
+    uniqueID: 997342887
+    locked: 0
+  m_RenderingLayers:
+  - Default
